@@ -1,6 +1,19 @@
 ![logo](https://github.com/usmaniqbal-developer/usmaniqbal-developer/blob/main/github-banner.PNG)
 
-# [LinkedIn: Usman Iqbal](https://www.linkedin.com/in/usman-iqbal-developer/)
+# Hey guys! <img src="https://raw.githubusercontent.com/StanGirard/StanGirard/master/wave.gif" width="30px">
+My name is Usman Iqbal, Frontend developer who's weapon of choice is React or any CMS for Millie attacks. I'm from Pakistan, living in bahawalpur.
+
+Thank you for checking my profile.
+
+Skills: HTML/CSS/SASS/jQuery/JS/BOOTSTRAP/Elementor/webflow/WordPress Theme Customization/WordPress Theme Development.
+
+- 🔭 I’m currently working for [Codelab](https://codelab.pk/).
+- 🌱 Ask me about WordPress Theme Customization / WordPress Theme Development.
+- 👯 I’m looking to collaborate on GitHub.
+- 💬 Ask me about Web Design.
+- 📫 Contact me email: usmaniqbal1480@gmail.com
+
+
 
 ## Table of Contents
 
